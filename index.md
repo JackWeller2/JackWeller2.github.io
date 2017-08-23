@@ -1,7 +1,7 @@
 ## 欢迎来到我的个人主页！
-<div align=center>
+<center>
 <img src="http://tvax1.sinaimg.cn/crop.0.0.299.299.180/973e0f04gy1fhkfpzuyyvj208c08ct91.jpg" />
-</div>
+</center>
 
 我是 Jack Weller，一个音乐爱好者，B站潜水up主，游戏制作人，有趣的程序员，同时仍在探索自我的更多可能！
 
