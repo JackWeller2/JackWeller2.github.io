@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## 欢迎来到我的个人主页！
 
-You can use the [editor on GitHub](https://github.com/JackWeller2/JackWeller2.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+我是 Jack Weller，一个音乐爱好者，B站潜水up主，游戏制作人，有趣的程序员，同时仍在探索自我的更多可能！
 
 ### Markdown
 
