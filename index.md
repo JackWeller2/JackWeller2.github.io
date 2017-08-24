@@ -1,16 +1,3 @@
-## 欢迎来到我的个人主页！
-<center>
-<img src="http://tvax1.sinaimg.cn/crop.0.0.299.299.180/973e0f04gy1fhkfpzuyyvj208c08ct91.jpg" />
-</center>
-
-我是 Jack Weller，一个音乐爱好者，B站潜水up主，游戏制作人，有趣的程序员，同时仍在探索自我的更多可能！
-
-在这里，你可以：
-
-> * 阅读我的各类杂文（主要是编程技术）
-> * 欣赏我的音乐、视频、摄影作品
-> * 与我讨论各类问题
-
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
